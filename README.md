@@ -1,5 +1,5 @@
  <img src="https://user-images.githubusercontent.com/71684830/151744616-8221a62b-eb72-4aae-b313-e4437246e02a.png" height="400px" width="900px" />
-<h1 align="center">Hi coders <img align="center" alt="Ayush Mishra" width="32px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Ayush Kumar Mishra</h1>
+<h1 align="center">Hi coders <img align="center" alt="Ayush Mishra" width="12px height="12px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Ayush Kumar Mishra</h1>
 <br/>
 <p align="center">
 <a alignhref="https://linkedin.com/in/ayushkumarmishra" target="blank">
